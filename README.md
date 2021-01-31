@@ -5,9 +5,9 @@
 - 3rd year Computer Science student at IITU in Kazakhstan, Almaty
 
 
-- 🔭 I’m currently working on self thaught full-stack(MEAN) engineering
+- 🔭 I’m currently working on Data analysis and Machine learning with Python
 
-- 🌱 I’m currently learning Swift and IOS developing
+- 🌱 I’m currently learning Swift and IOS developing also cross-platform mobile applications with flutter and Dart
 
 - 📫 How to reach me: davron2001davron@gmail.com
 <!--
