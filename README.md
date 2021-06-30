@@ -5,7 +5,7 @@
 - 4th year Computer Science student at IITU in Kazakhstan, Almaty
 
 
-- 🔭 Flutter developer <img src="https://iconape.com/wp-content/files/vp/55059/svg/dart.svg">
+- <img src="https://iconape.com/wp-content/files/vp/55059/svg/dart.svg" width="15" height="15"> Flutter developer 
 
 - 📫 How to reach me: arifzhanoff2001@gmail.com
 <!--
