@@ -2,14 +2,12 @@
 
 - My name is Davran, 
 - I'm 19 years old, 
-- 3rd year Computer Science student at IITU in Kazakhstan, Almaty
+- 4th year Computer Science student at IITU in Kazakhstan, Almaty
 
 
-- 🔭 I’m currently working on Data analysis and Machine learning with Python
+- 🔭 Flutter developer <img src="https://iconape.com/wp-content/files/vp/55059/svg/dart.svg">
 
-- 🌱 I’m currently learning Swift and IOS developing also cross-platform mobile applications with flutter and Dart
-
-- 📫 How to reach me: davron2001davron@gmail.com
+- 📫 How to reach me: arifzhanoff2001@gmail.com
 <!--
 **D4vr4n/D4vr4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
