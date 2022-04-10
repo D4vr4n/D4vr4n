@@ -1,13 +1,14 @@
 ### Hi there 👋
 
 - My name is Davran, 
-- I'm 19 years old, 
+- I'm 20 years old, 
 - 4th year Computer Science student at IITU in Kazakhstan, Almaty
-
 
 - <img src="https://iconape.com/wp-content/files/vp/55059/svg/dart.svg" width="15" height="15"> Flutter developer 
 
 - 📫 How to reach me: arifzhanoff2001@gmail.com
+
+<img src="https://github-readme-stats.vercel.app/api?username=d4vr4n">
 <!--
 **D4vr4n/D4vr4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
