@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - My name is Davran, 
-- I'm 20 years old, 
-- 4th year Computer Science student at IITU in Kazakhstan, Almaty
+- I'm 21 years old, 
+
 
 - <img src="https://iconape.com/wp-content/files/vp/55059/svg/dart.svg" width="15" height="15"> Flutter developer 
 
