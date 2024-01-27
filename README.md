@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - My name is Davran, 
-- I'm 21 years old, 
+- I'm 22 years old, 
 
 
 - <img src="https://iconape.com/wp-content/files/vp/55059/svg/dart.svg" width="15" height="15"> Flutter developer 
